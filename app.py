@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.sidebar.title('Navigation')
-section = st.sidebar.radio('Go to', ['About Me','Projects','Work Experience','Solidworks/CAD Designs'])
+section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','Solidworks/CAD Designs'])
 if section =='About Me':
     st.set_page_config(
         page_title="William Taila | Aerospace Engineering",
@@ -31,12 +31,13 @@ if section =='About Me':
     """)
     st.text('hello world')
 
+elif section == 'Work Experience':
+    st.text('hello worl')
+
 
 elif section == 'Projects':
     st.text('hello wor')
 
-elif section == 'Work Experience':
-    st.text('hello worl')
 
 elif section == 'Solidworks/CAD Designs':
     st.text('hello wrld')
