@@ -53,23 +53,25 @@ elif section == 'Education':
     **Bachelor of Science in Aerospace Engineering**  
     GPA: **3.4 / 4.0**
 
-    Minor: **Business**  
     *Expected Graduation: May 2027*
     """)
 
     st.markdown("**Relevant Coursework:**")
     st.markdown("""
-    - Mechanics of Aero-Structures  
-    - Aircraft Performance  
-    - Aerodynamics  
-    - Computational Methods in Engineering  
-    - Optimization Methods  
+    - Aerodynamics 
+    - Propulsion  
+    - Advanced Dynamics 
+    - Computational Mechanics  
+    - Data Driven Modeling
     - Fluid Mechanics  
-    - Linear Algebra & Differential Equations
+    - Engineering Analysis
     """)
 
-    st.markdown("**Tools & Software:**")
+    st.markdown("**Involvment:**")
     st.markdown("""
-    Python • MATLAB • SolidWorks • AutoCAD
+    - AIAA - Treasurer 
+    - Engieners Without Borders 
+    - Rocketry 
+    - Propulsion Club
     """)
 
