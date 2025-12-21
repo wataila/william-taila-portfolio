@@ -17,7 +17,7 @@ if section =='About Me':
         st.title("William Taila")
         st.subheader("Aerospace Engineering Student")
         st.write("""
-        U.S. Citizen | Dallas, TX | Chicago, IL | Los Angeles, CA | Open to Relocation
+        U.S. Citizen | Based In Dallas, TX | Chicago & Los Angeles No Relocation Needed | Open To Relocation
         """)
 
     st.markdown("""
