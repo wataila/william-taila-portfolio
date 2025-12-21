@@ -52,6 +52,7 @@ elif section == 'Education':
 
     **Bachelor of Science in Aerospace Engineering**  
     GPA: **3.4 / 4.0**
+    
     Deans List: Fall 2023 | Spring 2024 | Fall 2025
 
     *Expected Graduation: May 2027*
