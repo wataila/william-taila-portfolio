@@ -30,6 +30,7 @@ if section =='About Me':
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
     """)
     st.text('hello world')
+    st.image("assets/IMG_1309.jpg", width=200)
 
 elif section == 'Work Experience':
     st.text('hello worl')
