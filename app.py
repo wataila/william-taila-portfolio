@@ -63,6 +63,7 @@ elif section == 'Education':
     - Aerodynamics 
     - Propulsion  
     - Advanced Dynamics 
+    - Aerospace Laboratory 1 & 2
     - Computational Mechanics  
     - Data Driven Modeling
     - Fluid Mechanics  
