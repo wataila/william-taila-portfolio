@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.sidebar.title('Navigation')
+section = st.sidebar.radio('Go to', ['About Me','Projects','Work Experience','Solidworks/CAD Designs'])
 st.set_page_config(
     page_title="William Taila | Aerospace Engineering",
     page_icon="✈️",
