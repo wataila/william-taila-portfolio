@@ -40,12 +40,19 @@ elif section == 'Solidworks/CAD Designs':
     st.text('hello wrld')
 
 elif section == 'Education':
-    st.header("🎓 Education")
+    import streamlit as st
+
+    st.header("Education")
 
     st.markdown("""
     **Illinois Institute of Technology** — *Chicago, IL*  
-    **Bachelor of Science in Aerospace Engineering**  
+
     **Master of Science in Aerospace Engineering (Accelerated Program)**  
+    GPA: **4.0 / 4.0**
+
+    **Bachelor of Science in Aerospace Engineering**  
+    GPA: **3.4 / 4.0**
+
     Minor: **Business**  
     *Expected Graduation: May 2027*
     """)
