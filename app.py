@@ -48,10 +48,10 @@ elif section == 'Education':
     **Illinois Institute of Technology** — *Chicago, IL*  
 
     **Master of Engineering in Aerospace Engineering (Accelerated Program)**  
-    GPA: **4.0 / 4.0**
+    GPA: 4.0 / 4.0
 
     **Bachelor of Science in Aerospace Engineering**  
-    GPA: **3.4 / 4.0**
+    GPA: 3.4 / 4.0
     
     Deans List: Fall 2023 | Spring 2024 | Fall 2025
 
