@@ -8,6 +8,18 @@ if section =='About Me':
         page_icon="✈️",
         layout="wide"
     )
+    col1, col2 = st.columns([4, 5])  # left narrow, right wide
+
+    with col2:
+        st.image("assets/IMG_1309.jpg", width=400)
+
+    with col1:
+        st.title("William Taila")
+        st.subheader("Aerospace Engineering | Design • Structures • Analysis")
+        st.write("""
+        Junior Aerospace Engineering student at Illinois Institute of Technology
+        pursuing a BS–MS degree with a minor in Business.
+        """)
 
     st.title("William Taila")
 
