@@ -47,11 +47,12 @@ elif section == 'Education':
     st.markdown("""
     **Illinois Institute of Technology** — *Chicago, IL*  
 
-    **Master of Science in Aerospace Engineering (Accelerated Program)**  
+    **Master of Engineering in Aerospace Engineering (Accelerated Program)**  
     GPA: **4.0 / 4.0**
 
     **Bachelor of Science in Aerospace Engineering**  
     GPA: **3.4 / 4.0**
+    Deans List: Fall 2023 | Spring 2024 | Fall 2025
 
     *Expected Graduation: May 2027*
     """)
