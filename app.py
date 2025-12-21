@@ -15,10 +15,10 @@ if section =='About Me':
 
     with col1:
         st.title("William Taila")
-        st.subheader("Aerospace Engineering | Design • Structures • Analysis")
+        st.subheader("BS/ME Aerospace Engineering Student")
         st.write("""
         Junior Aerospace Engineering student at Illinois Institute of Technology
-        pursuing a BS–MS degree with a minor in Business.
+        pursuing a bachelors and masters degree in aerospace engineering
         """)
 
 
