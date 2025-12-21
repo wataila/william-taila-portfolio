@@ -18,10 +18,7 @@ if section =='About Me':
         st.subheader("Aerospace Engineering Student")
         st.write("""
         U.S. Citizen | Dallas, TX | Chicago, IL | Los Angeles, CA 
-        Junior Aerospace Engineering student at Illinois Institute of Technology
-        pursuing a bachelors and masters degree in aerospace engineering.
         """)
-
 
     st.markdown("""
     ### About Me
