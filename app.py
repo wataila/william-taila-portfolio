@@ -40,7 +40,29 @@ elif section == 'Solidworks/CAD Designs':
     st.text('hello wrld')
 
 elif section == 'Education':
-    st.title('Education')
-    st.markdown('''
-    ### Illinois Institute of Technology
-    ''')
+    st.header("🎓 Education")
+
+    st.markdown("""
+    **Illinois Institute of Technology** — *Chicago, IL*  
+    **Bachelor of Science in Aerospace Engineering**  
+    **Master of Science in Aerospace Engineering (Accelerated Program)**  
+    Minor: **Business**  
+    *Expected Graduation: May 2027*
+    """)
+
+    st.markdown("**Relevant Coursework:**")
+    st.markdown("""
+    - Mechanics of Aero-Structures  
+    - Aircraft Performance  
+    - Aerodynamics  
+    - Computational Methods in Engineering  
+    - Optimization Methods  
+    - Fluid Mechanics  
+    - Linear Algebra & Differential Equations
+    """)
+
+    st.markdown("**Tools & Software:**")
+    st.markdown("""
+    Python • MATLAB • SolidWorks • AutoCAD
+    """)
+
