@@ -21,17 +21,14 @@ if section =='About Me':
         pursuing a BS–MS degree with a minor in Business.
         """)
 
-    st.title("William Taila")
 
     st.markdown("""
     ### About Me
-    I’m an Aerospace Engineering student at Illinois Institute of Technology (IIT), focused on aircraft design, optimization, and hands-on engineering projects.
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
     """)
-    st.text('hello world')
-    st.image("assets/IMG_1309.jpg", width=400)
+
 
 elif section == 'Work Experience':
     st.text('hello worl')
