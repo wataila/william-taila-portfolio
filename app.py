@@ -25,7 +25,7 @@ if section =='About Me':
     I am a third year aerospace engineering student at Illinois Institute of Technology pursing both a bachelors and masters degree both of which I will be graduating with in the spring of 2027
 
     ### Objective
-    khbk
+    I'm looking for an internship opprotunity across a variety of industries with a goal to build a foundation for my future and have a long term development
 
     ### Tools
     - MATLAB 
@@ -85,7 +85,7 @@ elif section == 'Education':
     - AIAA - Treasurer 
     - Engieners Without Borders 
     - Rocketry 
-    - Propulsion Club what
+    - Propulsion Club
     """)
 
 
