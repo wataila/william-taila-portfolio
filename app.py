@@ -25,6 +25,7 @@ if section =='About Me':
     I am a third year aerospace engineering student at Illinois Institute of Technology pursing both a bachelors and masters degree both of which I will be graduating with in the spring of 2027
 
     ### Objective
+    khbk
 
     ### Tools
     - MATLAB 
