@@ -86,6 +86,7 @@ elif section == 'Education':
     - Engieners Without Borders 
     - Rocketry 
     - Propulsion Club
+    - kjbkj
     """)
 
 
