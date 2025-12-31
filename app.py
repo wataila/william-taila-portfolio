@@ -85,8 +85,7 @@ elif section == 'Education':
     - AIAA - Treasurer 
     - Engieners Without Borders 
     - Rocketry 
-    - Propulsion Club
-    - kjbkj
+    - Propulsion Club what
     """)
 
 
