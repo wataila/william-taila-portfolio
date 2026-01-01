@@ -32,7 +32,6 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
-    - khb
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
@@ -40,8 +39,8 @@ if section =='About Me':
 
 
 elif section == 'Work Experience':
-    st.title("Work Experience")
     st.markdown("""
+    #### Work Experience
     ### Undergraduate Research Assistant 
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
