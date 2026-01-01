@@ -46,10 +46,12 @@ elif section == 'Work Experience':
     
     ### Dock Hand
     **Theodosia Marina and Resort** — *Theodosia, MO*
+   
     *May 2022 — August 2022*
     
     ### Volunteer
     **The Samaritan Inn** — *McKinney, TX*
+    
     *August 2019 — May 2023*
     """)
 
