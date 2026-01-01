@@ -32,7 +32,6 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
-    - hhh
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
@@ -40,7 +39,19 @@ if section =='About Me':
 
 
 elif section == 'Work Experience':
-    st.text('hello worl')
+    st.markdown("""
+    ### Undergraduate Research Assistant 
+    **Illinois Institute of Technology** — *Chicago, IL*  
+    *August 2024 — December 2024*
+    
+    ### Dock Hand
+    **Theodosia Marina and Resort** — *Theodosia, MO*
+    *May 2022 — August 2022*
+    
+    ### Volunteer
+    **The Samaritan Inn** — *McKinney, TX*
+    *August 2019 — May 2023*
+    """)
 
 
 elif section == 'Projects':
