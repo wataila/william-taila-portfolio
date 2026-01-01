@@ -32,7 +32,6 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
-    - kh
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
@@ -40,6 +39,7 @@ if section =='About Me':
 
 
 elif section == 'Work Experience':
+    st.title('Work Experience')
     st.markdown("""
     ### Undergraduate Research Assistant 
     **Illinois Institute of Technology** — *Chicago, IL*  
