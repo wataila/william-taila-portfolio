@@ -22,8 +22,8 @@ if section =='About Me':
 
     st.markdown("""
     ### About Me
-    I am a third year aerospace engineering student at Illinois Institute of Technology pursing both a bachelors and masters degree both of which I will be graduating with in the spring of 2027
-
+    I am a third-year aerospace engineering student at the Illinois Institute of Technology, pursuing both a bachelor’s and a master’s degree, with plans to graduate in the spring of 2027. My master’s program focuses on dynamics and navigation systems, while my studies more broadly cover the design, analysis, and optimization of aerospace structures and systems. I have experience with computational modeling, fluid mechanics, propulsion systems, and structural analysis, and I enjoy applying these skills to real-world engineering challenges. Outside the classroom, I am passionate about aerospace innovation, building projects, and exploring new technologies. I also enjoy outdoor activities like hiking and fly fishing, which provide a creative balance to my technical work. My goal is to contribute to cutting-edge aerospace projects, combining engineering expertise with problem-solving creativity to make meaningful impacts in the field.
+    
     ### Objective
     I'm looking for an internship opprotunity across a variety of industries with a goal to build a foundation for my future and have a long term development
 
