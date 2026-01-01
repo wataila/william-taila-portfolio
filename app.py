@@ -40,7 +40,7 @@ if section =='About Me':
 
 elif section == 'Work Experience':
     st.markdown("""
-    #### Work Experience
+    ### Work Expereince
     ### Undergraduate Research Assistant 
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
