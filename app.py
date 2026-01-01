@@ -44,6 +44,14 @@ elif section == 'Work Experience':
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
     
+    ### Undergraduate Research Assistant 
+    **Illinois Institute of Technology** — *Chicago, IL*  
+    *August 2024 — December 2024*
+    
+    ### Undergraduate Research Assistant 
+    **Illinois Institute of Technology** — *Chicago, IL*  
+    *August 2024 — December 2024*
+    
     ### Dock Hand
     **Theodosia Marina and Resort** — *Theodosia, MO*
     *May 2022 — August 2022*
