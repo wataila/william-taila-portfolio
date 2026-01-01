@@ -32,7 +32,7 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
-    - jhb
+    - khb
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
