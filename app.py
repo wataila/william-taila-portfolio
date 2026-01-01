@@ -32,6 +32,7 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
+    - iug
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
