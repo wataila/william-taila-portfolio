@@ -32,7 +32,7 @@ if section =='About Me':
     - Python
     - Solidworks
     - Microsoft Office
-    - iug
+    - ouh
 
     ### Links
     - [LinkedIn](https://www.linkedin.com/in/william-taila-594545305/)
@@ -45,13 +45,13 @@ elif section == 'Work Experience':
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
     
-    ### Undergraduate Research Assistant 
-    **Illinois Institute of Technology** — *Chicago, IL*  
-    *August 2024 — December 2024*
+    ### Dock Hand 
+    **Theodosia Marina and Resort** — *Theodosia, MO*  
+    *May 2022 — August 2022*
     
-    ### Undergraduate Research Assistant 
-    **Illinois Institute of Technology** — *Chicago, IL*  
-    *August 2024 — December 2024*
+    ### Volunteer 
+    **The Samaritan Inn** — *McKinney, TX*  
+    *August 2019 — May 2023*
     
     ### Dock Hand
     **Theodosia Marina and Resort** — *Theodosia, MO*
