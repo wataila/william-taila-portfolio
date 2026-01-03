@@ -44,23 +44,35 @@ elif section == 'Work Experience':
     ### Undergraduate Research Assistant 
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
-    - hghj
-    - dfgd
-    - sfgs
+    - Conducted CFD simulations and data analysis to assess airflow performance and identify flow anomalies relevant to component wear
+    - Applied design and validation principles to evaluate structural limits and optimize test geometries for improved durability
+    - Performed parametric studies to evaluate the impact of geometric variations on flow characteristics and component performance
+    - Developed MATLAB scripts to automate post-processing of simulation data, reducing analysis time and improving accuracy
+    - Interpreted simulation results to support engineering decisions and guide design refinement
+    - Generated technical documentation summarizing methods, results, and conclusions for weekly progress reports and design reviews
+    - Collaborated with faculty and research team members to ensure consistency between modeling assumptions and physical constraints
     
     ### Dock Hand 
     **Theodosia Marina and Resort** — *Theodosia, MO*  
     *May 2022 — August 2022*
-    - hghj
-    - dfgd
-    - sfgs
+    - Operated and maintained marine systems, ensuring mechanical reliability and safety compliance across 100+ vessels
+    - Assisted with troubleshooting and repair coordination, reducing downtime and increasing operational throughput by 20%
+    - Supported docking, mooring, and vessel maneuvering operations under varying environmental conditions
+    - Conducted routine inspections of equipment and waterfront infrastructure to identify maintenance needs
+    - Assisted customers with vessel handling and marina operations in a professional, safety-focused manner
+    - Maintained a clean, organized, and operational dock environment during peak seasonal demand
+    - Demonstrated strong teamwork, situational awareness, and reliability in a physically demanding work environment
     
     ### Volunteer 
     **The Samaritan Inn** — *McKinney, TX*  
     *August 2019 — May 2023*
-    - hghj
-    - dfgd
-    - sfgs
+    - Volunteered in support of homeless shelter operations and community assistance programs
+    - Conducted outreach by distributing flyers to advertise donation drives for clothing and furniture
+    - Engaged with local businesses and community members to raise awareness of shelter needs
+    - Helped secure over $2,500 in donations across multiple years of volunteering
+    - Assisted with organizing, sorting, and managing donated clothing and household items
+    - Supported shelter staff with logistics and coordination during donation campaigns
+    - Demonstrated long-term commitment, initiative, and community leadership through consistent service
     
     """)
 
