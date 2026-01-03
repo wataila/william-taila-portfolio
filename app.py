@@ -82,7 +82,7 @@ elif section == 'Projects':
 
 
 elif section == 'Solidworks/CAD Designs':
-    st.text('hello wrld')
+    st.text('hello')
 
 elif section == 'Education':
     import streamlit as st
