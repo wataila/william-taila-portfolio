@@ -51,7 +51,6 @@ elif section == 'Work Experience':
     - Interpreted simulation results to support engineering decisions and guide design refinement
     - Generated technical documentation summarizing methods, results, and conclusions for weekly progress reports and design reviews
     - Collaborated with faculty and research team members to ensure consistency between modeling assumptions and physical constraints
-    - hg
     
     ### Dock Hand 
     **Theodosia Marina and Resort** — *Theodosia, MO*  
@@ -74,6 +73,7 @@ elif section == 'Work Experience':
     - Assisted with organizing, sorting, and managing donated clothing and household items
     - Supported shelter staff with logistics and coordination during donation campaigns
     - Demonstrated long-term commitment, initiative, and community leadership through consistent service
+    - uyg
     
     """)
 
