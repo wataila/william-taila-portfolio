@@ -73,13 +73,12 @@ elif section == 'Work Experience':
     - Assisted with organizing, sorting, and managing donated clothing and household items
     - Supported shelter staff with logistics and coordination during donation campaigns
     - Demonstrated long-term commitment, initiative, and community leadership through consistent service
-    - uyg
     
     """)
 
 
 elif section == 'Projects':
-    st.text('hello wor')
+    st.text('hello')
 
 
 elif section == 'Solidworks/CAD Designs':
