@@ -96,9 +96,13 @@ elif section == 'Projects':
     
     """)
     st.image("assets/Picture1.png", width=400)
+    st.text('Plot of the lift coefficient vs the angle of attack with the experimental data.')
     st.image("assets/Picture2.jpg", width=400)
+    st.text('Published graph from the NASA Langley Research Center showing the lift coefficient vs the angle of attack for the NACA 0012 aifoil.')
     st.image("assets/Picture3.png", width=400)
+    st.text('Experimental drag polar plot showing the drag coefficient vs the lift coefficient.')
     st.image("assets/Picture4.jpg", width=400)
+    st.text('Published graph from the NASA Langley Research Center showing the drag coefficient vs the lift coefficient of the NACA 0012 airfoil.')
 
 
 elif section == 'Solidworks/CAD Designs':
