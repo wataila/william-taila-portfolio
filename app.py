@@ -106,9 +106,11 @@ elif section == 'Projects':
     st.markdown("""
     ### Educational Fly Fishing Resource Website
     **Tools**: Python, Streamlit, Web UI Design, Data Organization
+    
     **Context**: Personal / Independent Project
 
     **Overview**:
+    
     Designed and developed an interactive educational website to teach fly fishing fundamentals, including equipment, techniques, and species-specific knowledge, with a focus on clarity, usability, and structured information delivery.
     
     **Key Contributions & Features**:
