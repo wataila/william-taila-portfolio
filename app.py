@@ -79,6 +79,13 @@ elif section == 'Work Experience':
 
 elif section == 'Projects':
     st.text('hello')
+    st.markdown("""
+    ### Experimental Analysis of Aerodynamic Properties for a NACA 0012 Airfoil
+    - **Tools**: Wind Tunnel Testing, Data Acquisition, Python / MATLAB, Aerodynamics
+    - **Context**: Academic Laboratory Project
+    **Overview:**
+    - Conducted an experimental investigation of the lift and drag characteristics of a NACA 0012 airfoil across a range of angles of attack using wind tunnel testing.
+    """)
 
 
 elif section == 'Solidworks/CAD Designs':
