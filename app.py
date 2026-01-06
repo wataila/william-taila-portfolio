@@ -133,7 +133,8 @@ elif section == 'Projects':
     """)
 
     st.markdown("""
-    ###Compressible Flow Tables & Calculator Tool (In Progress)
+    ### Compressible Flow Tables & Calculator Tool (In Progress)
+    
     **Tools**: MATLAB, Python, Numerical Methods, Compressible Flow
     
     **Context**: Personal / Academic Engineering Tool
