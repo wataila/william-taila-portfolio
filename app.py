@@ -85,9 +85,20 @@ elif section == 'Projects':
     - **Context**: Academic Laboratory Project
     
     **Overview:**
-    - Conducted an experimental investigation of the lift and drag characteristics of a NACA 0012 airfoil across a range of angles of attack using wind tunnel testing.
+    Conducted an experimental investigation of the lift and drag characteristics of a NACA 0012 airfoil across a range of angles of attack using wind tunnel testing.
+    
+    **Key Contributions & Results**
+    - Measured lift and drag forces for a NACA 0012 airfoil over multiple angles of attack to characterize aerodynamic performance.
+    - Processed raw force and pressure data to compute lift and drag coefficients.
+    - Analyzed trends in aerodynamic behavior, including linear lift slope, zero-lift angle, and stall onset.
+    - Compared experimental results with theoretical expectations and published airfoil data to assess accuracy and experimental uncertainty.
+    - Documented findings through plots, tables, and a formal technical report.
     
     """)
+    st.image("assets/Picture1.png", width=400)
+    st.image("assets/Picture2.png", width=400)
+    st.image("assets/Picture3.png", width=400)
+    st.image("assets/Picture4.png", width=400)
 
 
 elif section == 'Solidworks/CAD Designs':
