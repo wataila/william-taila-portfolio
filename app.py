@@ -104,6 +104,13 @@ elif section == 'Projects':
     st.text('Published graph from the NASA Langley Research Center showing the drag coefficient vs the lift coefficient of the NACA 0012 airfoil.')
 
     st.markdown("""
+    **Why This Project Matters:**
+    
+    This project demonstrates hands-on experimental testing, rigorous data reduction, and validation of experimental results against established aerodynamic theory. Through this work, I developed experience in translating raw experimental measurements into meaningful engineering quantities, evaluating sources of uncertainty, and interpreting trends in physical system behavior. The project also strengthened my technical communication skills through the creation of clear plots, structured analysis, and formal reporting. Collectively, these skills are directly transferable to engineering roles across industries that require experimental validation, data-driven decision-making, and clear communication of technical results.
+    
+    """)
+
+    st.markdown("""
     ### Educational Fly Fishing Resource Website
     **Tools**: Python, Streamlit, Web UI Design, Data Organization
     
