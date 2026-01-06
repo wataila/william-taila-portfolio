@@ -127,7 +127,7 @@ elif section == 'Projects':
     - Applied engineering-style problem decomposition to structure content logically and consistently across the site.
     - Deployed and tested the application locally, iterating on usability and performance.
     
-    **Why This Project Matters to Me**
+    **Why This Project Matters:**
     
     This project combines my interest in fly fishing with my passion for building structured, educational systems. It allowed me to apply engineering-style problem-solving to software development and content organization while creating a resource that is genuinely useful to others. The project also reflects my interest in developing tools that are both technically sound and user-focused.
     """)
