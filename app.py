@@ -132,6 +132,32 @@ elif section == 'Projects':
     This project combines my interest in fly fishing with my passion for building structured, educational systems. It allowed me to apply engineering-style problem-solving to software development and content organization while creating a resource that is genuinely useful to others. The project also reflects my interest in developing tools that are both technically sound and user-focused.
     """)
 
+    st.markdown("""
+    ###Compressible Flow Tables & Calculator Tool (In Progress)
+    **Tools**: MATLAB, Python, Numerical Methods, Compressible Flow
+    
+    **Context**: Personal / Academic Engineering Tool
+    
+    **Overview**:
+    
+    Developing a computational resource to generate and visualize compressible flow tables, providing quick access to key flow properties across a range of Mach numbers and thermodynamic conditions.
+    
+    **Current Features & Development:**
+    - Implementing algorithms to compute compressible flow relations, including isentropic flow, normal shock, and oblique shock properties.
+    - Automating the generation of tabulated flow properties to replace static reference tables.
+    - Building reusable MATLAB and Python functions for rapid engineering calculations.
+    - Validating computed results against standard compressible flow tables to ensure numerical accuracy.
+    
+    ** Planned Enhancements:**
+    - Interactive user inputs for Mach number and specific heat ratio.
+    - Visualization of trends in flow properties using plots and charts.
+    - Web-based or GUI interface for improved accessibility.
+    
+    **Why This Project Matters:**
+    
+    After taking a compressible flow course, I recognized how time-consuming and inefficient it can be to repeatedly flip through textbook tables to find flow properties for different conditions. This project was motivated by a desire to streamline that process by creating a computational tool that provides fast, accurate access to compressible flow data. Developing this resource reinforces my understanding of compressible flow theory while strengthening my skills in numerical methods, software development, and validation against trusted reference data. The project reflects my interest in building practical tools that improve efficiency for students and engineers, and demonstrates my ability to identify real workflow challenges and design technical solutions to address them.
+
+    """)
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
 
