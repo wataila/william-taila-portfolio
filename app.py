@@ -78,7 +78,6 @@ elif section == 'Work Experience':
 
 
 elif section == 'Projects':
-    st.text('hello')
     st.markdown("""
     ### Experimental Analysis of Aerodynamic Properties for a NACA 0012 Airfoil
     - **Tools**: Wind Tunnel Testing, Data Acquisition, Python / MATLAB, Aerodynamics
@@ -104,6 +103,24 @@ elif section == 'Projects':
     st.image("assets/Picture4.jpg", width=400)
     st.text('Published graph from the NASA Langley Research Center showing the drag coefficient vs the lift coefficient of the NACA 0012 airfoil.')
 
+    st.markdown("""
+    ### Educational Fly Fishing Resource Website
+    **Tools**: Python, Streamlit, Web UI Design, Data Organization
+    **Context**: Personal / Independent Project
+
+    **Overview**:
+    Designed and developed an interactive educational website to teach fly fishing fundamentals, including equipment, techniques, and species-specific knowledge, with a focus on clarity, usability, and structured information delivery.
+    
+    **Key Contributions & Features**:
+    - Built a multi-page web application covering fly types, fly rods, target species, knots, and fly fishing fundamentals.
+    - Designed an intuitive user interface to organize technical and instructional content for beginner and intermediate users.
+    - Implemented modular page layouts to support scalability and future feature expansion.
+    - Applied engineering-style problem decomposition to structure content logically and consistently across the site.
+    - Deployed and tested the application locally, iterating on usability and performance.
+    
+    **Why This Project Matters to Me**
+    This project combines my interest in fly fishing with my passion for building structured, educational systems. It allowed me to apply engineering-style problem-solving to software development and content organization while creating a resource that is genuinely useful to others. The project also reflects my interest in developing tools that are both technically sound and user-focused.
+    """)
 
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
