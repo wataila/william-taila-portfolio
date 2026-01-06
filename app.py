@@ -149,7 +149,7 @@ elif section == 'Projects':
     - Building reusable MATLAB and Python functions for rapid engineering calculations.
     - Validating computed results against standard compressible flow tables to ensure numerical accuracy.
     
-    ** Planned Enhancements:**
+    **Planned Enhancements:**
     - Interactive user inputs for Mach number and specific heat ratio.
     - Visualization of trends in flow properties using plots and charts.
     - Web-based or GUI interface for improved accessibility.
