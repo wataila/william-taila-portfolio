@@ -96,9 +96,9 @@ elif section == 'Projects':
     
     """)
     st.image("assets/Picture1.png", width=400)
-    st.image("assets/Picture2.png", width=400)
+    st.image("assets/Picture2.jpg", width=400)
     st.image("assets/Picture3.png", width=400)
-    st.image("assets/Picture4.png", width=400)
+    st.image("assets/Picture4.jpg", width=400)
 
 
 elif section == 'Solidworks/CAD Designs':
