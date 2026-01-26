@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.sidebar.title('Navigation')
-section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','Education'])
+section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','AIAA Spacecraft Design Competition','Education'])
 if section =='About Me':
     st.set_page_config(
         page_title="William Taila | Aerospace Engineering",
@@ -161,6 +161,12 @@ elif section == 'Projects':
     """)
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
+
+elif section == 'AIAA Spacecraft Design Competition'
+    st.header("Spring 2026 AIAA Spacecraft Design Competition")
+    st.markdown("""
+    This semester (spring 2026) I will be competing in the AIAA spacecraft design competition with a team of 10 other students.
+    """)
 
 elif section == 'Education':
     import streamlit as st
