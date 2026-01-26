@@ -169,6 +169,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     This semester (Spring 2026), I am competing in the AIAA Undergraduate Spacecraft Design Competition as part of an 10‑member multidisciplinary team. My subsystem focuses on Mars communication delays and disruptions within NASA’s Moon‑to‑Mars objectives—specifically, developing an architecture capable of maintaining line‑of‑sight between Earth and Mars to enable near‑constant communication throughout the mission period. This includes analyzing geometric blackout conditions, evaluating relay strategies, and identifying methods to mitigate signal interruptions during critical mission phases.
     
+    Additionally from this I will become Level 1 & 2 certified in Ansys STK.
     ### Links
     - https://aiaa.org/wp-content/uploads/2025/08/2025-2026-Undergraduate-Team_Space-Design-Competition.pdf
     - https://ntrs.nasa.gov/api/citations/20220013418/downloads/ASCEND-Communication%20Delays%2C%20Disruptions%2C%20and%20Blackouts%20for%20Crewed%20Mars%20Missions.pdf
