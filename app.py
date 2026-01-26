@@ -162,7 +162,7 @@ elif section == 'Projects':
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
 
-elif section == 'AIAA Spacecraft Design Competition'
+elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
     st.markdown("""
     This semester (spring 2026) I will be competing in the AIAA spacecraft design competition with a team of 10 other students.
