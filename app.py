@@ -196,6 +196,7 @@ elif section == 'Education':
     st.markdown("**Relevant Coursework:**")
     st.markdown("""
     - Aerodynamics 
+    - Spacecraft Design
     - Propulsion  
     - Advanced Dynamics 
     - Aerospace Laboratory 1 & 2
