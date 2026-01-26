@@ -166,6 +166,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
     st.markdown("""
     *This section will be updated throughout the Spring 2026 semester as the project progresses.*
+    
     This semester (spring 2026) I will be competing in the AIAA spacecraft design competition with a team of 10 other students.
     
     ### Links
