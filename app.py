@@ -161,6 +161,7 @@ elif section == 'Projects':
     """)
 elif section == 'Solidworks/CAD Designs':
     st.header('Various SolidWorks Designs')
+    st.text('')
     col1, col2 = st.columns(2)
 
     with col1:
