@@ -187,6 +187,17 @@ elif section == 'Solidworks/CAD Designs':
     with col2:
         st.image("assets/Screenshot 2026-02-01 133906.png")
 
+    st.divider()
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("""
+            ### Turbine Fan Model 
+            This turbofan rotor concept was modeled in SolidWorks after studying various aircraft propulsion systems in propulsion class. The design was created to better understand fan-stage geometry, blade arrangement, and rotational symmetry used in jet engines. Modeling this assembly helped reinforce theoretical concepts through hands-on CAD application.            """)
+
+
+    with col2:
+        st.image("assets/Screenshot 2026-02-01 142940.png")
+
 
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
