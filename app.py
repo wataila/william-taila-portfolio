@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.sidebar.title('Navigation')
-section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','Solidworks/CAD Designs','AIAA Spacecraft Design Competition','Education'])
+section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','AIAA Spacecraft Design Competition','Education'])
 if section =='About Me':
     st.set_page_config(
         page_title="William Taila | Aerospace Engineering",
