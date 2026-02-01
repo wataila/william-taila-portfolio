@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.sidebar.title('Navigation')
-section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','AIAA Spacecraft Design Competition','Education'])
+section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','Solidworks/CAD Designs','AIAA Spacecraft Design Competition','Education'])
 if section =='About Me':
     st.set_page_config(
         page_title="William Taila | Aerospace Engineering",
@@ -161,6 +161,8 @@ elif section == 'Projects':
     """)
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
+    st.image("assets/Screenshot 2026-01-31 190422.png", width=400)
+    st.image("assets/Screenshot 2026-01-31 190504.png", width=400)
 
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
