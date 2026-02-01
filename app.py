@@ -164,20 +164,15 @@ elif section == 'Solidworks/CAD Designs':
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image("assets/Screenshot 2026-01-31 190422.png", use_container_width=True)
+
         st.markdown("""
         ### Apple Pencil Holder
         I designed this simple Apple Pencil holder after purchasing an iPad for note-taking, as the built-in holder on my case was inconvenient and made it difficult to remove the pencil quickly. The design features a keychain slot at the top, allowing it to be attached to a carabiner inside my backpack. Additionally, a small bridge near the bottom helps keep the pencil securely in place while still allowing for easy removal.
-        
-        
-        
-        
-        
-        
         """)
 
     with col2:
         st.image("assets/Screenshot 2026-01-31 190504.png", width=350)
+        st.image("assets/Screenshot 2026-01-31 190422.png", use_container_width=True)
 
     with col1:
         st.image("assets/Screenshot 2026-02-01 133906.png")
