@@ -174,9 +174,7 @@ elif section == 'Solidworks/CAD Designs':
         st.image("assets/Screenshot 2026-01-31 190504.png", width=350)
 
     st.divider()
-
-    with col1:
-        st.image("assets/Screenshot 2026-02-01 133906.png")
+    st.image("assets/Screenshot 2026-02-01 133906.png")
 
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
