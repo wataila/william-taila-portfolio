@@ -196,7 +196,7 @@ elif section == 'Solidworks/CAD Designs':
 
 
     with col2:
-        st.image("assets/Screenshot 2026-02-01 142940.png")
+        st.image("assets/Screenshot 2026-02-01 143429.png")
 
 
 elif section == 'AIAA Spacecraft Design Competition':
