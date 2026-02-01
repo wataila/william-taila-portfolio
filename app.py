@@ -171,7 +171,7 @@ elif section == 'Solidworks/CAD Designs':
         """)
 
     with col2:
-        st.image("assets/Screenshot 2026-01-31 190504.png", use_container_width=True)
+        st.image("assets/Screenshot 2026-01-31 190504.png", width=250)
 
 
 elif section == 'AIAA Spacecraft Design Competition':
