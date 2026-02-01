@@ -166,7 +166,7 @@ elif section == 'Solidworks/CAD Designs':
     with col1:
         st.image("assets/Screenshot 2026-01-31 190422.png", use_container_width=True)
         st.markdown("""
-        ###Apple Pencil Holder
+        ### Apple Pencil Holder
         I designed this simple pencil
         """)
 
