@@ -161,8 +161,15 @@ elif section == 'Projects':
     """)
 elif section == 'Solidworks/CAD Designs':
     st.text('hello')
-    st.image("assets/Screenshot 2026-01-31 190422.png", width=400)
-    st.image("assets/Screenshot 2026-01-31 190504.png", width=400 , length=400)
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.image("assets/Screenshot 2026-01-31 190422.png", use_container_width=True)
+
+    with col2:
+        st.image("assets/Screenshot 2026-01-31 190504.png", use_container_width=True)
+
 
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
