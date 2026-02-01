@@ -178,12 +178,15 @@ elif section == 'Solidworks/CAD Designs':
     st.divider()
     col1, col2 = st.columns(2)
     with col1:
-    st.markdown("""
-    ### Headphone Desk Holder 
-    This headphone desk holder was designed in SolidWorks using precise, measured dimensions to match the geometry of my desk’s top shelf. The structure provides stable support for hanging headphones, while the built-in cable wrap allows for efficient cord management. Accurate dimensioning ensures proper fit, durability, and reliable performance in daily use.
-    """)
+        st.markdown("""
+            ### Headphone Desk Holder 
+            This headphone desk holder was designed in SolidWorks using precise, measured dimensions to match the geometry of my desk’s top shelf. The structure provides stable support for hanging headphones, while the built-in cable wrap allows for efficient cord management. Accurate dimensioning ensures proper fit, durability, and reliable performance in daily use.
+            """)
+
+
     with col2:
-    st.image("assets/Screenshot 2026-02-01 133906.png")
+        st.image("assets/Screenshot 2026-02-01 133906.png")
+
 
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
