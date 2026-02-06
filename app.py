@@ -157,8 +157,53 @@ elif section == 'Projects':
     **Why This Project Matters:**
     
     After taking a compressible flow course, I recognized how time-consuming and inefficient it can be to repeatedly flip through textbook tables to find flow properties for different conditions. This project was motivated by a desire to streamline that process by creating a computational tool that provides fast, accurate access to compressible flow data. Developing this resource reinforces my understanding of compressible flow theory while strengthening my skills in numerical methods, software development, and validation against trusted reference data. The project reflects my interest in building practical tools that improve efficiency for students and engineers, and demonstrates my ability to identify real workflow challenges and design technical solutions to address them.
-
+    
     """)
+    
+    import numpy as np
+
+    # ---------------- Constants ----------------
+    gamma = 1.4
+
+    # ---------------- Table ----------------
+    M = np.arange(0.001, 10.01, 0.01)
+
+    T_Tt = 1 / (1 + (gamma - 1) / 2 * M ** 2)
+    P_Pt = T_Tt ** (gamma / (gamma - 1))
+    rho = T_Tt ** (1 / (gamma - 1))
+
+    A_A = (1 / M) * (
+            (2 / (gamma + 1)) * (1 + (gamma - 1) / 2 * M ** 2)
+    ) ** ((gamma + 1) / (2 * (gamma - 1)))
+
+    isoTable = np.column_stack((M, P_Pt, T_Tt, rho, A_A))
+
+    # ---------------- UI ----------------
+    st.title("Compressible Flow Calculator")
+
+    st.write("Isentropic Flow (γ = 1.4)")
+
+    M_user = st.number_input(
+        "Enter Mach Number (0–10)",
+        min_value=0.001,
+        max_value=10.0,
+        step=0.01
+    )
+
+    if st.button("Compute"):
+        P_Pt = np.interp(M_user, isoTable[:, 0], isoTable[:, 1])
+        T_Tt = np.interp(M_user, isoTable[:, 0], isoTable[:, 2])
+        rho = np.interp(M_user, isoTable[:, 0], isoTable[:, 3])
+        A_A = np.interp(M_user, isoTable[:, 0], isoTable[:, 4])
+
+        st.subheader("Results")
+
+        st.write(f"Mach: {M_user:.4f}")
+        st.write(f"P/Pt: {P_Pt:.6f}")
+        st.write(f"T/Tt: {T_Tt:.6f}")
+        st.write(f"ρ/ρt: {rho:.6f}")
+        st.write(f"A/A*: {A_A:.6f}")
+
 elif section == 'Solidworks/CAD Designs':
     st.header('Various SolidWorks Designs')
     st.text('')
