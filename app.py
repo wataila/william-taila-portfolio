@@ -198,14 +198,14 @@ elif section == 'Solidworks/CAD Designs':
     with col2:
         st.image("assets/Screenshot 2026-02-01 143429.png")
     st.divider()
+    col1, col2 = st.columns(2)
     with col1:
         st.markdown("""
-            ### Pencil Holder
-            This lattice pencil holder was modeled in SolidWorks by following and adapting an online tutorial to practice advanced CAD techniques. The design was created to better understand helical patterning, surface features, and parametric control in complex geometry. Modeling this part helped reinforce SolidWorks workflow and feature management through hands-on application.
-
-
+        ### Pencil Holder
+        This lattice pencil holder was modeled in SolidWorks by following and adapting an online tutorial to practice advanced CAD techniques. The design was created to better understand helical patterning, surface features, and parametric control in complex geometry. Modeling this part helped reinforce SolidWorks workflow and feature management through hands-on application.
+        """)
     with col2:
-        st.image("assets/Screenshot 2026-02-05 184013.png")
+        st.image("Screenshot 2026-02-05 184013.png")
 
 
 elif section == 'AIAA Spacecraft Design Competition':
