@@ -159,7 +159,7 @@ elif section == 'Projects':
     After taking a compressible flow course, I recognized how time-consuming and inefficient it can be to repeatedly flip through textbook tables to find flow properties for different conditions. This project was motivated by a desire to streamline that process by creating a computational tool that provides fast, accurate access to compressible flow data. Developing this resource reinforces my understanding of compressible flow theory while strengthening my skills in numerical methods, software development, and validation against trusted reference data. The project reflects my interest in building practical tools that improve efficiency for students and engineers, and demonstrates my ability to identify real workflow challenges and design technical solutions to address them.
     
     """)
-    
+
     import numpy as np
 
     # ---------------- Constants ----------------
@@ -203,6 +203,7 @@ elif section == 'Projects':
         st.write(f"T/Tt: {T_Tt:.6f}")
         st.write(f"ρ/ρt: {rho:.6f}")
         st.write(f"A/A*: {A_A:.6f}")
+    st.text('This code is only partially done and was originally done in MATLAB then converted over to python to display here.')
 
 elif section == 'Solidworks/CAD Designs':
     st.header('Various SolidWorks Designs')
