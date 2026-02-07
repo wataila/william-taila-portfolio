@@ -31,6 +31,7 @@ if section =='About Me':
     - MATLAB 
     - Python
     - Solidworks
+    - Ansys STK
     - Microsoft Office
 
     ### Links
