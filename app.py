@@ -300,7 +300,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     with st.expander("📄 View Full Competition Presentation"):
         st.markdown(
             """
-            <a href="https://github.com/wataila/william-taila-portfolio/blob/a1ab6ef0687d9f681d59f27c4fc65f7aee6574ee/assets/Final%20Presentation.pdf?raw=true" target="_blank">
+            <a href="https://raw.githubusercontent.com/wataila/william-taila-portfolio/main/assets/Final%20Presentation.pdf" target="_blank">
                 <button style="
                     padding: 0.5rem 1rem;
                     font-size: 16px;
