@@ -297,7 +297,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     """)
     st.image("assets/Screenshot 2026-08-18 215521.png", width=400)
-
+    st.image("assets/Screenshot 2026-08-18 215832.png", width=400)
 
 elif section == 'Education':
     import streamlit as st
