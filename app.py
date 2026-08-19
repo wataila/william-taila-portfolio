@@ -62,6 +62,15 @@ elif section == 'Work Experience':
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified and implemented laboratory improvements, coordinating the procurement of approximately $4,000 in equipment and tools to improve laboratory efficiency and usability.
     
+    ### Professional Development at PAC 
+    **Toastmasters International** — *Irvine, CA*  
+    *May 2026 — August 2026*
+    -	Prepared and delivered a 7-minute speech to a live audience, developing structured presentation and technical communication skills.
+    -	Regularly delivered 1–2 minute impromptu Table Topics speeches at meetings, strengthening public speaking, adaptability, and communication skills.
+    -  	Served in meeting roles including Ah-Counter, supporting meeting operations and helping members improve their speaking habits.
+
+    
+    
     ### Undergraduate Research Assistant 
     **Illinois Institute of Technology** — *Chicago, IL*  
     *August 2024 — December 2024*
