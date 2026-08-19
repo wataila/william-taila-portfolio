@@ -48,7 +48,7 @@ if section == 'About Me':
 elif section == 'Work Experience':
     st.markdown("""
     ### Work Expereince
-    ### Undergraduate Research Assistant 
+    ### Structures Lab and Test Engineering Intern 
     **Panasonic Avionics Corporation (PAC)** — *Lake Forest, CA*  
     *May 2026 — August 2026*
     -	Performed leak testing on aircraft Line Replaceable Units (LRUs), including IFECs, CECs, and EE-Bays, supporting verification and certification testing.
