@@ -49,7 +49,7 @@ elif section == 'Work Experience':
     st.markdown("""
     ### Work Expereince
     ### Structures Lab And Test Engineering Intern
-    ** Panasonic Avionics Corporation** - * Lake Forest, CA*
+    **Panasonic Avionics Corporation** - *Lake Forest, CA*
     *May 2026 - August 2026*
     - asd
     
