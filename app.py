@@ -297,24 +297,8 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     """)
 
-    import base64
-
     with st.expander("📄 View Full Competition Presentation"):
-        with open("assets/Final Presentation.pdf", "rb") as pdf_file:
-            pdf_bytes = pdf_file.read()
-
-        base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
-
-        pdf_html = f"""
-        <iframe
-            src="data:application/pdf;base64,{base64_pdf}"
-            width="100%"
-            height="900"
-            style="border: none;">
-        </iframe>
-        """
-
-        st.markdown(pdf_html, unsafe_allow_html=True)
+        st.pdf("assets/Final Presentation.pdf", height=900)
 
 elif section == 'Education':
     import streamlit as st
