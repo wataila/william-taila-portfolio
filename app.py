@@ -294,9 +294,27 @@ elif section == 'AIAA Spacecraft Design Competition':
     -	Collaborated with the team to develop ADCS subsystem requirements and constraints, defining attitude-control, pointing, sensing, and actuation needs based on mission objectives.
     -	Researched and evaluated ADCS components, including reaction wheels, star trackers, IMUs, coarse sun sensors, and monopropellant thrusters, comparing specifications and compatibility with the spacecraft architecture.
     -	Performed ADCS component trade studies and hardware selections, balancing performance, compatibility, and subsystem requirements while integrating the selected components into the overall spacecraft design.
-
+    
     """)
+    # Final presentation
+    with st.expander("📄 View Full Competition Presentation"):
+        with open("assets/Final Presentation.pdf", "rb") as pdf_file:
+            pdf_bytes = pdf_file.read()
 
+        import base64
+        base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
+
+        st.markdown(
+            f"""
+            <iframe
+                src="data:application/pdf;base64,{base64_pdf}"
+                width="100%"
+                height="800"
+                style="border: none;">
+            </iframe>
+            """,
+            unsafe_allow_html=True
+        )
 elif section == 'Education':
     import streamlit as st
 
