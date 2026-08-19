@@ -48,10 +48,9 @@ if section == 'About Me':
 elif section == 'Work Experience':
     st.markdown("""
     ### Work Expereince
-    ### Structures Lab And Test Engineering Intern
-    **Panasonic Avionics Corporation** - *Lake Forest, CA*
-    *May 2026 - August 2026*
-    - asd
+    ### Undergraduate Research Assistant 
+    **Illinois Institute of Technology** — *Chicago, IL*  
+    *August 2024 — December 2024*
     
     
     ### Undergraduate Research Assistant 
