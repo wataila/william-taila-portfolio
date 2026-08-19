@@ -296,8 +296,8 @@ elif section == 'AIAA Spacecraft Design Competition':
     -	Performed ADCS component trade studies and hardware selections, balancing performance, compatibility, and subsystem requirements while integrating the selected components into the overall spacecraft design.
     
     """)
-    st.image("assets/Screenshot 2026-08-18 215521.png", width=400)
-    st.image("assets/Screenshot 2026-08-18 215832.png", width=400)
+    st.image("assets/Screenshot 2026-08-18 215521.png", width=400), st.image("assets/Screenshot 2026-08-18 215832.png", width=400)
+
 
 elif section == 'Education':
     import streamlit as st
