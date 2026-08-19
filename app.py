@@ -287,14 +287,14 @@ elif section == 'Solidworks/CAD Designs':
 elif section == 'AIAA Spacecraft Design Competition':
     st.header("Spring 2026 AIAA Spacecraft Design Competition")
     st.markdown("""
-    *This section will be updated throughout the Spring 2026 semester as the project progresses.*
     
-    This semester (Spring 2026), I am competing in the AIAA Undergraduate Spacecraft Design Competition as part of an 10‑member multidisciplinary team. My subsystem focuses on Mars communication delays and disruptions within NASA’s Moon‑to‑Mars objectives—specifically, developing an architecture capable of maintaining line‑of‑sight between Earth and Mars to enable near‑constant communication throughout the mission period. This includes analyzing geometric blackout conditions, evaluating relay strategies, and identifying methods to mitigate signal interruptions during critical mission phases.
-    
-    Additionally from this I will become Level 1 & 2 certified in Ansys STK.
-    ### Links
-    - https://aiaa.org/wp-content/uploads/2025/08/2025-2026-Undergraduate-Team_Space-Design-Competition.pdf
-    - https://ntrs.nasa.gov/api/citations/20220013418/downloads/ASCEND-Communication%20Delays%2C%20Disruptions%2C%20and%20Blackouts%20for%20Crewed%20Mars%20Missions.pdf
+    -	Collaborated on a 10-person team to design HEIMDALL, a spacecraft mission at the Earth-Sun L4 Lagrange point providing communications, navigation, and heliophysics capabilities.
+    -	Used Ansys STK to model spacecraft trajectories, communication links, and ranges, supporting mission analysis and spacecraft design decisions.
+    -  	Completed Ansys STK Level 1 training and applied the software to spacecraft trajectory and communications analysis throughout the mission design process.
+    -	Collaborated with the team to develop ADCS subsystem requirements and constraints, defining attitude-control, pointing, sensing, and actuation needs based on mission objectives.
+    -	Researched and evaluated ADCS components, including reaction wheels, star trackers, IMUs, coarse sun sensors, and monopropellant thrusters, comparing specifications and compatibility with the spacecraft architecture.
+    -	Performed ADCS component trade studies and hardware selections, balancing performance, compatibility, and subsystem requirements while integrating the selected components into the overall spacecraft design.
+
     """)
 
 elif section == 'Education':
