@@ -306,7 +306,7 @@ elif section == 'AIAA Spacecraft Design Competition':
 
     with col2:
         st.image("assets/Screenshot 2026-08-18 215832.png", width=800)
-        st.image("assets/Screenshot 2026-08-18 220303.png", width=800)
+        st.image("assets/Screenshot 2026-08-18 220626.png", width=800)
         st.image("assets/Screenshot 2026-08-18 220338.png", width=800)
 
 
