@@ -298,7 +298,23 @@ elif section == 'AIAA Spacecraft Design Competition':
     """)
 
     with st.expander("📄 View Full Competition Presentation"):
-        st.pdf("assets/Final Presentation.pdf", height=900)
+        st.markdown(
+            """
+            <object
+                data="assets/Final%20Presentation.pdf"
+                type="application/pdf"
+                width="100%"
+                height="900px">
+                <p>
+                    Your browser does not support embedded PDFs.
+                    <a href="assets/Final%20Presentation.pdf">
+                        Open the presentation
+                    </a>
+                </p>
+            </object>
+            """,
+            unsafe_allow_html=True
+        )
 
 elif section == 'Education':
     import streamlit as st
