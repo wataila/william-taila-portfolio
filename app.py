@@ -47,7 +47,7 @@ if section == 'About Me':
 
 elif section == 'Work Experience':
     st.markdown("""
-    ### Work Expereince
+    ### Work Experience
     ### Structures Lab and Test Engineering Intern 
     **Panasonic Avionics Corporation (PAC)** — *Lake Forest, CA*  
     *May 2026 — August 2026*
@@ -62,8 +62,8 @@ elif section == 'Work Experience':
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified and implemented laboratory improvements, coordinating the procurement of approximately $4,000 in equipment and tools to improve laboratory efficiency and usability.
     
-    ### Professional Development at PAC 
-    **Toastmasters International** — *Irvine, CA*  
+    ### Professional Development 
+    **Toastmasters International (PAC Chapter)** — *Irvine, CA*  
     *May 2026 — August 2026*
     -	Prepared and delivered a 7-minute speech to a live audience, developing structured presentation and technical communication skills.
     -	Regularly delivered 1–2 minute impromptu Table Topics speeches at meetings, strengthening public speaking, adaptability, and communication skills.
