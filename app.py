@@ -297,7 +297,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     """)
 
-    
+
 
 elif section == 'Education':
     import streamlit as st
@@ -309,11 +309,13 @@ elif section == 'Education':
 
     **Master of Engineering in Aerospace Engineering (Accelerated Program)**  
     GPA: 3.8 / 4.0
+    
+    *Expected Graduation: May 2027*
 
     **Bachelor of Science in Aerospace Engineering**  
     GPA: 3.5 / 4.0
     
-    Deans List: Fall 2023 | Spring 2024 | Fall 2025
+    Deans List: Fall 2023 | Spring 2024 | Fall 2025 | Spring 2026
 
     *Expected Graduation: May 2027*
     """)
