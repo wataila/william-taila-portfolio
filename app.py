@@ -297,21 +297,24 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     """)
 
+    import base64
+
     with st.expander("📄 View Full Competition Presentation"):
-        st.markdown(
-            """
-            <a href="https://raw.githubusercontent.com/wataila/william-taila-portfolio/main/assets/Final%20Presentation.pdf" target="_blank">
-                <button style="
-                    padding: 0.5rem 1rem;
-                    font-size: 16px;
-                    cursor: pointer;
-                ">
-                    📄 Open Final Presentation
-                </button>
-            </a>
-            """,
-            unsafe_allow_html=True
-        )
+        with open("assets/Final Presentation.pdf", "rb") as pdf_file:
+            pdf_bytes = pdf_file.read()
+
+        base64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
+
+        pdf_html = f"""
+        <iframe
+            src="data:application/pdf;base64,{base64_pdf}"
+            width="100%"
+            height="900"
+            style="border: none;">
+        </iframe>
+        """
+
+        st.markdown(pdf_html, unsafe_allow_html=True)
 
 elif section == 'Education':
     import streamlit as st
