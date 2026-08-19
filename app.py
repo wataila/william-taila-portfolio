@@ -296,7 +296,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     -	Performed ADCS component trade studies and hardware selections, balancing performance, compatibility, and subsystem requirements while integrating the selected components into the overall spacecraft design.
     
     """)
-    # Final presentation
+
     with st.expander("📄 View Full Competition Presentation"):
         with open("assets/Final Presentation.pdf", "rb") as pdf_file:
             pdf_bytes = pdf_file.read()
@@ -315,6 +315,7 @@ elif section == 'AIAA Spacecraft Design Competition':
             """,
             unsafe_allow_html=True
         )
+
 elif section == 'Education':
     import streamlit as st
 
