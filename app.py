@@ -49,8 +49,8 @@ elif section == 'Work Experience':
     st.markdown("""
     ### Work Expereince
     ### Undergraduate Research Assistant 
-    **Illinois Institute of Technology** — *Chicago, IL*  
-    *August 2024 — December 2024*
+    **Panasonic Avionics Corporation** — *Lake Forest, CA*  
+    *May 2026 — August 2026*
     
     
     ### Undergraduate Research Assistant 
