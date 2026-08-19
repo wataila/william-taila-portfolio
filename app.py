@@ -49,7 +49,7 @@ elif section == 'Work Experience':
     st.markdown("""
     ### Work Expereince
     ### Undergraduate Research Assistant 
-    **Panasonic Avionics Corporation** — *Lake Forest, CA*  
+    **Panasonic Avionics Corporation (PAC)** — *Lake Forest, CA*  
     *May 2026 — August 2026*
     
     
