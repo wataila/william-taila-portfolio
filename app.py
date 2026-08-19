@@ -295,7 +295,7 @@ elif section == 'AIAA Spacecraft Design Competition':
     -	Researched and evaluated ADCS components, including reaction wheels, star trackers, IMUs, coarse sun sensors, and monopropellant thrusters, comparing specifications and compatibility with the spacecraft architecture.
     -	Performed ADCS component trade studies and hardware selections, balancing performance, compatibility, and subsystem requirements while integrating the selected components into the overall spacecraft design.
     
-    ### Short Overview of the ADCS
+    ### Short Overview of the ADCS Subsystem
     """)
 
     col1, col2 = st.columns(2)
