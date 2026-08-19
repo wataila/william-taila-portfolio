@@ -1,14 +1,20 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="William Taila | Aerospace Engineering",
+    page_icon="✈️",
+    layout="wide"
+)
+
 st.sidebar.title('Navigation')
-section = st.sidebar.radio('Go to', ['About Me','Work Experience','Projects','Solidworks/CAD Designs','AIAA Spacecraft Design Competition','Education'])
-if section =='About Me':
-    st.set_page_config(
-        page_title="William Taila | Aerospace Engineering",
-        page_icon="✈️",
-        layout="wide"
-    )
-    col1, col2 = st.columns([4, 5])  # left narrow, right wide
+section = st.sidebar.radio(
+    'Go to',
+    ['About Me', 'Work Experience', 'Projects', 'Solidworks/CAD Designs',
+     'AIAA Spacecraft Design Competition', 'Education']
+)
+
+if section == 'About Me':
+    col1, col2 = st.columns([4, 5])
 
     with col2:
         st.image("assets/IMG_1309.jpg", width=400)
@@ -23,12 +29,12 @@ if section =='About Me':
     st.markdown("""
     ### About Me
     I am a third-year aerospace engineering student at the Illinois Institute of Technology, pursuing both a bachelor’s and a master’s degree, with plans to graduate in the spring of 2027. My master’s program focuses on dynamics and navigation systems, while my studies more broadly cover the design, analysis, and optimization of aerospace structures and systems. I have experience with computational modeling, fluid mechanics, propulsion systems, and structural analysis, and I enjoy applying these skills to real-world engineering challenges. Outside the classroom, I am passionate about aerospace innovation, building projects, and exploring new technologies. I also enjoy outdoor activities like hiking and fly fishing, which provide a creative balance to my technical work. My goal is to contribute to cutting-edge aerospace projects, combining engineering expertise with problem-solving creativity to make meaningful impacts in the field.
-    
+
     ### Objective
     I am seeking an internship opportunity with a company where I can build a long-term future while gaining hands-on engineering experience and learning from experienced engineers through mentorship. I am motivated to apply my technical and analytical skills to real-world projects while continuing to grow professionally.
-    
+
     ### Tools
-    - MATLAB 
+    - MATLAB
     - Python
     - Solidworks
     - Ansys STK
@@ -277,10 +283,10 @@ elif section == 'Education':
     **Illinois Institute of Technology** — *Chicago, IL*  
 
     **Master of Engineering in Aerospace Engineering (Accelerated Program)**  
-    GPA: 4.0 / 4.0
+    GPA: 3.8 / 4.0
 
     **Bachelor of Science in Aerospace Engineering**  
-    GPA: 3.4 / 4.0
+    GPA: 3.5 / 4.0
     
     Deans List: Fall 2023 | Spring 2024 | Fall 2025
 
