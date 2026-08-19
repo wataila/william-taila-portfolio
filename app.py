@@ -297,14 +297,22 @@ elif section == 'AIAA Spacecraft Design Competition':
     
     """)
 
-    from pathlib import Path
-
     with st.expander("📄 View Full Competition Presentation"):
-        st.iframe(
-            Path("assets/Final Presentation.pdf"),
-            height=800
+        st.markdown(
+            """
+            <a href="https://github.com/wataila/william-taila-portfolio/blob/a1ab6ef0687d9f681d59f27c4fc65f7aee6574ee/assets/Final%20Presentation.pdf?raw=true" target="_blank">
+                <button style="
+                    padding: 0.5rem 1rem;
+                    font-size: 16px;
+                    cursor: pointer;
+                ">
+                    📄 Open Final Presentation
+                </button>
+            </a>
+            """,
+            unsafe_allow_html=True
         )
-    
+
 elif section == 'Education':
     import streamlit as st
 
