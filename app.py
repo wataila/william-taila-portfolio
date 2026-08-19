@@ -60,7 +60,7 @@ elif section == 'Work Experience':
     -	Developed a repeatable data-analysis workflow whose generated plots and polynomial equations will support final certification documentation and future certification testing, reducing manual data-processing time.
     -	Supported initial testing of the Converix aircraft entertainment system, including experimental setup, test preparation, and training the Chief Analyst on operation of the test process.
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
-    -	Identified and implemented laboratory improvements, coordinating the procurement of approximately $4,000 in equipment and tools to improve laboratory efficiency and usability.
+    -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
     ### Professional Development 
     **Toastmasters International (PAC Chapter)** — *Irvine, CA*  
