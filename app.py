@@ -301,9 +301,13 @@ elif section == 'AIAA Spacecraft Design Competition':
 
     with col1:
         st.image("assets/Screenshot 2026-08-18 215521.png", width=800)
+        st.image("assets/Screenshot 2026-08-18 220303.png", width=800)
+        st.image("assets/Screenshot 2026-08-18 220303.png", width=800)
 
     with col2:
         st.image("assets/Screenshot 2026-08-18 215832.png", width=800)
+        st.image("assets/Screenshot 2026-08-18 220303.png", width=800)
+        st.image("assets/Screenshot 2026-08-18 220303.png", width=800)
 
 
 
