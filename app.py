@@ -62,6 +62,13 @@ elif section == 'Work Experience':
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
+    **Idea of What the Tool Looked Like and Accomplished**
+    Help | File Upload | Single Graph | Comparison | Specific Pressure | Multi-LRU Analysis | Active Testing | Export to PDF
+    
+    
+    
+    
+    
     ### Additional Engineering Experience (PAC)
     **Test & Validation Exposure**
     -   Observed aerospace qualification testing at Independent Testing Laboratories (ITL), including centrifuge acceleration testing of a seatbox, liquid ingress testing of a monitor shroud, and vibration testing of a Video Control Center (VCC).
