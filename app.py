@@ -62,7 +62,7 @@ elif section == 'Work Experience':
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
-    **Idea of What the Tool Looked Like and Accomplished**
+    **LRU Data Analysis Tool**
     
     Help | File Upload | Single Graph | Comparison | Specific Pressure | Multi-LRU Analysis | Active Testing | Export to PDF
     
