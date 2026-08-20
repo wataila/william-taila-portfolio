@@ -52,19 +52,19 @@ elif section == 'Work Experience':
     **Panasonic Avionics Corporation (PAC)** — *Lake Forest, CA*  
     *May 2026 — August 2026*
     -	Performed leak testing on aircraft Line Replaceable Units (LRUs), including IFECs, CECs, and EE-Bays, supporting verification and certification testing.
-    -	Obtained systematic airflow and pressure-drop characterization data for 12 LRUs, collecting 10 datasets per LRU across various metering-plate hole/plug configurations and ARINC configurations.
-    -	Analyzed LRU cooling performance against ARINC industry standards, which define required airflow and pressure-drop characteristics based on unit power dissipation.
+    -	Collected systematic airflow and pressure-drop characterization data for 12 LRUs, collecting 10 datasets per LRU across various metering-plate hole/plug configurations and ARINC configurations.
+    -	Analyzed LRU cooling performance against ARINC industry standards, which specify required airflow and pressure-drop characteristics based on unit power dissipation.
     -	Developed a Python-based data analysis tool that automatically processes experimental data, generates airflow/pressure-drop plots, and produces polynomial fit equations for rapid LRU characterization.
     -	Converted the Python analysis tool into a standalone desktop application so engineers without programming experience could independently analyze test data and generate certification-ready results.
     -	Added automated unit conversion capabilities supporting CFM, L/s, inH₂O, hPa, and Pa, allowing the tool to accommodate different engineering and certification requirements.
-    -	Developed a repeatable data-analysis workflow whose generated plots and polynomial equations will support final certification documentation and future certification testing, reducing manual data-processing time.
+    -	Developed a repeatable data-analysis workflow whose generated plots and polynomial equations will support certification documentation and future certification testing, reducing manual data-processing time.
     -	Supported initial testing of the Converix aircraft entertainment system, including experimental setup, test preparation, and training the Chief Analyst on operation of the test process.
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
     ### Additional Engineering Experience (PAC)
     **Test & Validation Exposure**
-    -   Visited Independent Testing Laboratories (ITL) to observe aerospace qualification testing, including centrifuge acceleration testing of a seatbox, liquid ingress testing of a monitor shroud, and vibration testing of a Video Control Center (VCC).
+    -   Observed aerospace qualification testing at Independent Testing Laboratories (ITL), including centrifuge acceleration testing of a seatbox, liquid ingress testing of a monitor shroud, and vibration testing of a Video Control Center (VCC).
     -   Gained exposure to aerospace environmental and qualification testing methods used to evaluate hardware under simulated flight conditions.
     
     **Engineering Automation & AI**
