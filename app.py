@@ -63,10 +63,8 @@ elif section == 'Work Experience':
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
     **Idea of What the Tool Looked Like and Accomplished**
+    
     Help | File Upload | Single Graph | Comparison | Specific Pressure | Multi-LRU Analysis | Active Testing | Export to PDF
-    
-    
-    
     
     
     ### Additional Engineering Experience (PAC)
