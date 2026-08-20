@@ -10,7 +10,7 @@ st.sidebar.title('Navigation')
 section = st.sidebar.radio(
     'Go to',
     ['About Me', 'Work Experience', 'Projects', 'Solidworks/CAD Designs',
-     'AIAA Spacecraft Design Competition', 'Aircraft Design', 'Education']
+     'AIAA Spacecraft Design Competition', 'Education']
 )
 
 if section == 'About Me':
