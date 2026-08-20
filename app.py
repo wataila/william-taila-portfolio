@@ -52,7 +52,7 @@ elif section == 'Work Experience':
     **Panasonic Avionics Corporation (PAC)** — *Lake Forest, CA*  
     *May 2026 — August 2026*
     -	Performed leak testing on aircraft Line Replaceable Units (LRUs), including IFECs, CECs, and EE-Bays, supporting verification and certification testing.
-    -	Collected systematic airflow and pressure-drop characterization data for 12 LRUs, collecting 10 datasets per LRU across various metering-plate hole/plug configurations and ARINC configurations.
+    -	Collected systematic airflow and pressure-drop characterization data for 12 LRUs, with 10 datasets per LRU across various metering-plate hole/plug configurations and ARINC configurations.
     -	Analyzed LRU cooling performance against ARINC industry standards, which specify required airflow and pressure-drop characteristics based on unit power dissipation.
     -	Developed a Python-based data analysis tool that automatically processes experimental data, generates airflow/pressure-drop plots, and produces polynomial fit equations for rapid LRU characterization.
     -	Converted the Python analysis tool into a standalone desktop application so engineers without programming experience could independently analyze test data and generate certification-ready results.
@@ -69,7 +69,7 @@ elif section == 'Work Experience':
     
     **Engineering Automation & AI**
     -   Developed an AI-powered Jira work-summary agent using Claude Code, integrating Jira API calls to retrieve an employee's tickets over a specified time period and generate an automated summary of completed work.
-    -   Created a four-script Python deployment workflow that made the agent shareable and reproducible for other users without requiring access to the original development environment.
+    -   Created a four-script Python deployment workflow that packaged the agent's API integration, configuration, and setup, making it shareable and reproducible for other users.
     -   Assisted 2 interns and 5 full-time engineers with configuring and using the agent, and recorded a training session to enable future users to independently deploy the workflow.
     
     
