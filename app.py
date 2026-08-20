@@ -58,7 +58,7 @@ elif section == 'Work Experience':
     -	Converted the Python analysis tool into a standalone desktop application so engineers without programming experience could independently analyze test data and generate certification-ready results.
     -	Added automated unit conversion capabilities supporting CFM, L/s, inH₂O, hPa, and Pa, allowing the tool to accommodate different engineering and certification requirements.
     -	Developed a repeatable data-analysis workflow whose generated plots and polynomial equations will support certification documentation and future certification testing, reducing manual data-processing time.
-    -	Supported initial testing of the Converix aircraft entertainment system, including experimental setup, test preparation, and training the Chief Analyst on operation of the test process.
+    -	Supported initial testing of the Converix aircraft entertainment system, including experimental setup, test preparation, and training the Chief Analyst on the test procedure.
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
@@ -68,7 +68,7 @@ elif section == 'Work Experience':
     -   Gained exposure to aerospace environmental and qualification testing methods used to evaluate hardware under simulated flight conditions.
     
     **Engineering Automation & AI**
-    -   Developed an AI-powered Jira work-summary agent using Claude Code, integrating Jira API calls to retrieve an employee's tickets over a specified time period and generate an automated summary of completed work.
+    -   Developed an AI-powered Jira work-summary agent using Claude Code, integrating Jira API calls to retrieve an employee's tickets over a specified time period and automatically generate a summary of their work.
     -   Created a four-script Python deployment workflow that packaged the agent's API integration, configuration, and setup, making it shareable and reproducible for other users.
     -   Assisted 2 interns and 5 full-time engineers with configuring and using the agent, and recorded a training session to enable future users to independently deploy the workflow.
     
