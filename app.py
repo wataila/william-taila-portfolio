@@ -62,6 +62,17 @@ elif section == 'Work Experience':
     -	Coordinated with the Quality department to verify calibration status and certification readiness of laboratory test equipment used during qualification and certification testing.
     -	Identified laboratory improvements and coordinated approximately $4,000 in equipment and tool procurement, improving laboratory efficiency and usability.
     
+    ### Additional Engineering Experience 
+    Test & Validation Exposure
+    -   Visited Independent Testing Laboratories (ITL) to observe aerospace qualification testing, including centrifuge acceleration testing of a seatbox, liquid ingress testing of a monitor shroud, and vibration testing of a Video Control Center (VCC).
+    -   Gained exposure to aerospace environmental and qualification testing methods used to evaluate hardware under simulated flight conditions.
+    
+    Engineering Automation & AI
+    -   Developed an AI-powered Jira work-summary agent using Claude Code, integrating Jira API calls to retrieve an employee's tickets over a specified time period and generate an automated summary of completed work.
+    -   Created a four-script Python deployment workflow that made the agent shareable and reproducible for other users without requiring access to the original development environment.
+    -   Assisted 2 interns and 5 full-time engineers with configuring and using the agent, and recorded a training session to enable future users to independently deploy the workflow.
+    
+    
     ### Professional Development 
     **Toastmasters International (PAC Chapter)** — *Irvine, CA*  
     *May 2026 — August 2026*
