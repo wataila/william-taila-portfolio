@@ -329,7 +329,7 @@ elif section == 'AIAA Spacecraft Design Competition':
 
     st.markdown("""
     
-    ### ANSYS STK Screenshots 
+    ### ANSYS STK Screenshot 
     
     """)
 
@@ -339,8 +339,8 @@ elif section == 'AIAA Spacecraft Design Competition':
         st.image("assets/Screenshot 2026-02-13 150330.png", width=800)
 
 
-    with col2:
-        st.image("assets/Screenshot 2026-02-13 140025.png", width=800)
+
+
 
 
 
