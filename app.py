@@ -327,6 +327,20 @@ elif section == 'AIAA Spacecraft Design Competition':
         st.image("assets/Screenshot 2026-08-18 220338.png", width=800)
 
 
+    st.markdown("""
+    
+    ### ANSYS STK Screenshots 
+    
+    """)
+
+    with col1:
+        st.image("assets/Screenshot 2026-02-13 150330.png", width=800)
+
+
+    with col2:
+        st.image("assets/Screenshot 2026-02-13 150658.png", width=800)
+
+
 
 elif section == 'Education':
     import streamlit as st
