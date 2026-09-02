@@ -261,7 +261,7 @@ elif section == 'Solidworks/CAD Designs':
     with col1:
         st.markdown("### NACA 2412 Airfoil CFD")
         st.markdown("I created a NACA 2412 airfoil model in SolidWorks using coordinate data obtained from Airfoil Tools. I downloaded the airfoil coordinates as a CSV file, converted the data into a format compatible with SolidWorks, and imported the points to generate the airfoil geometry. I then created a flow domain around the airfoil and used SolidWorks FloXpress to simulate airflow over the airfoil and visualize the resulting flow field.")
-                    
+
 
         st.image("assets/Screenshot 2026-09-01 171232.png", use_container_width=True)
 
@@ -270,6 +270,24 @@ elif section == 'Solidworks/CAD Designs':
         st.markdown("###")
 
         st.video("videos/Video Project.mp4")
+
+    st.divider()
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("""
+
+        ### I-Beam Structural Analysis
+        """)
+        st.image("assets/Screenshot 2026-09-02 120821.png", caption="Von Mises Stress")
+        st.video("videos/Recording 2026-09-02 120801.mp4")
+    with col2:
+        st.image("assets/Screenshot 2026-09-02 120827.png", caption="Total Displacement")
+        
+ 
+
+
+
+
 
     st.divider()
     col1, col2 = st.columns(2)
