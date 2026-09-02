@@ -266,8 +266,6 @@ elif section == 'Solidworks/CAD Designs':
         """)
 
 
-    with col2:
-
         st.video("videos/Video Project.mp4")
 
     with col1:
