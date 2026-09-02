@@ -269,12 +269,12 @@ elif section == 'Solidworks/CAD Designs':
         st.video("videos/Video Project.mp4")
 
 
-
-
-
     with col1:
 
         st.markdown("""
+        ###
+        ###
+        ###
         ### Apple Pencil Holder
         
         
