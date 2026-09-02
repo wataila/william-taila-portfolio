@@ -256,18 +256,18 @@ elif section == 'Solidworks/CAD Designs':
     st.text('')
     col1, col2 = st.columns(2)
 
-    st.markdown("### NACA 2412 Airfoil CFD")
 
 
     with col1:
+        st.markdown("### NACA 2412 Airfoil CFD")
         st.image("assets/Screenshot 2026-09-01 171232.png", use_container_width=True)
 
 
     with col2:
         st.video("videos/Video Project.mp4")
-        st.divider()
 
-   
+
+
 
 
     with col1:
