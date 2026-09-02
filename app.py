@@ -273,9 +273,7 @@ elif section == 'Solidworks/CAD Designs':
     with col1:
 
         st.markdown("""
-        ###
-        ###
-        ###
+
         ### Apple Pencil Holder
         
         
