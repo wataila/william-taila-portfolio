@@ -277,11 +277,11 @@ elif section == 'Solidworks/CAD Designs':
         st.markdown("""
 
         ### I-Beam Structural Analysis
-        ###
         """)
         st.image("assets/Screenshot 2026-09-02 120821.png", caption="Von Mises Stress")
         st.video("videos/Recording 2026-09-02 120801.mp4")
     with col2:
+        st.markdown("###")
         st.image("assets/Screenshot 2026-09-02 120827.png", caption="Total Displacement")
         
  
