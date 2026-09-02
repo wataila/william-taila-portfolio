@@ -259,6 +259,16 @@ elif section == 'Solidworks/CAD Designs':
     with col1:
 
         st.markdown("""
+        ### NACA 2412 Airfoil CFD 
+        
+        
+        
+        """)
+        st.video("videos/Video Project.mp4")
+
+    with col1:
+
+        st.markdown("""
         ### Apple Pencil Holder
         I designed this simple Apple Pencil holder after purchasing an iPad for note-taking, as the built-in holder on my case was inconvenient and made it difficult to remove the pencil quickly. The design features a keychain slot at the top, allowing it to be attached to a carabiner inside my backpack. Additionally, a small bridge near the bottom helps keep the pencil securely in place while still allowing for easy removal.
         """)
