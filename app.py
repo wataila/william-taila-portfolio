@@ -268,6 +268,9 @@ elif section == 'Solidworks/CAD Designs':
 
         st.video("videos/Video Project.mp4")
 
+    with col2:
+        st.image("assets/Screenshot 2026-09-01 171232.png")
+
     with col1:
 
         st.markdown("""
