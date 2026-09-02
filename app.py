@@ -260,10 +260,11 @@ elif section == 'Solidworks/CAD Designs':
 
 
     with col1:
-        st.video("videos/Video Project.mp4")
+        st.image("assets/Screenshot 2026-09-01 171232.png", use_container_width=True)
+
 
     with col2:
-        st.image("assets/Screenshot 2026-09-01 171232.png", use_container_width=True)
+        st.video("videos/Video Project.mp4")
 
     with col1:
 
