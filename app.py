@@ -257,7 +257,6 @@ elif section == 'Solidworks/CAD Designs':
     col1, col2 = st.columns(2)
 
 
-    st.divider()
 
     with col1:
         st.markdown("### NACA 2412 Airfoil CFD")
@@ -269,7 +268,6 @@ elif section == 'Solidworks/CAD Designs':
 
         st.video("videos/Video Project.mp4")
 
-    st.divider()
 
     with col1:
 
