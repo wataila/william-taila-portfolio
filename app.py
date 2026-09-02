@@ -264,7 +264,7 @@ elif section == 'Solidworks/CAD Designs':
         
         
         """)
-       
+
 
     with col2:
 
@@ -278,7 +278,7 @@ elif section == 'Solidworks/CAD Designs':
         """)
         st.image("assets/Screenshot 2026-01-31 190422.png", use_container_width=True)
 
-    with col2:
+
         st.image("assets/Screenshot 2026-01-31 190504.png", width=350)
 
     st.divider()
