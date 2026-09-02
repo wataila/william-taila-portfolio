@@ -260,6 +260,9 @@ elif section == 'Solidworks/CAD Designs':
 
     with col1:
         st.markdown("### NACA 2412 Airfoil CFD")
+        st.markdown("I created a NACA 2412 airfoil model in SolidWorks using coordinate data obtained from Airfoil Tools. I downloaded the airfoil coordinates as a CSV file, converted the data into a format compatible with SolidWorks, and imported the points to generate the airfoil geometry. I then created a flow domain around the airfoil and used SolidWorks FloXpress to simulate airflow over the airfoil and visualize the resulting flow field.")
+                    
+
         st.image("assets/Screenshot 2026-09-01 171232.png", use_container_width=True)
 
 
