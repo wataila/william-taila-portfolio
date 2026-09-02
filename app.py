@@ -265,8 +265,9 @@ elif section == 'Solidworks/CAD Designs':
 
     with col2:
         st.video("videos/Video Project.mp4")
+        st.divider()
 
-    st.divider()
+   
 
 
     with col1:
