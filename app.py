@@ -264,6 +264,8 @@ elif section == 'Solidworks/CAD Designs':
 
 
     with col2:
+        st.markdown("###")
+
         st.video("videos/Video Project.mp4")
 
 
